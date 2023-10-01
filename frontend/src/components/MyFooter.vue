@@ -2,7 +2,7 @@
 </script>
 
 <template>
-<footer>MyFooter</footer>
+<footer>&copy; 2023 untitled-vue All rights reserved.</footer>
 </template>
 
 <style scoped>
