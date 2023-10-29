@@ -11,16 +11,12 @@ body {
     text-decoration: none;
 }
 
-#app {
-    min-width: 500px;
-    height: 300px;
-    overflow: scroll;
-    border: 1px solid #eee;
-    padding: 10px;
+p {
+    margin-bottom: 0 !important;
+}
 
-    &::-webkit-scrollbar {
-        display: none;
-    }
+#app {
+    width: 100%
 }
 
 a,
