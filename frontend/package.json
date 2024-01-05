@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "dev": "node_modules/.bin/vite --port 8080",
+    "dev": "node_modules/.bin/vite --port 5173",
     "build": "node_modules/.bin/run-p type-check \\\\\\\"build-only {@}\\\\\\\" --",
     "preview": "node_modules/.bin/vite preview",
     "test:unit": "node_modules/.bin/vitest",
